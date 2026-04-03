@@ -12,7 +12,7 @@ export interface AppointmentLocation {
   uuid: string;
   name: string;
 }
-
+// trigger CI
 // added to prevent auto-removal of translations for dynamic keys
 // t('Scheduled', 'Scheduled');
 // t('CheckedIn', 'Checked in');
